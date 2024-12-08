@@ -1,0 +1,20 @@
+item {
+  id: 1
+  name: 'penny'
+}
+
+item {
+  id: 2
+  name: 'nickel'
+}
+
+item {
+  id: 3
+  name: 'dime'
+}
+
+item {
+  id: 4
+  name: 'quarter'
+}
+
